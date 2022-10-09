@@ -14,7 +14,7 @@ namespace Training2
     {
         static void Main(string[] args)
         {
-            //SumOfEvenNumbers();
+            
             CollectionExercise.CollectionExercise collectionExercise = new CollectionExercise.CollectionExercise();
             collectionExercise.CollectionTrainingExercise(-1);
         }
