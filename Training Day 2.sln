@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training Day 2", "Training2\Training Day 2.csproj", "{E0685181-5363-4AB4-9B0C-C6B719C8BC84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection Exercise", "Training2\Collection Exercise.csproj", "{E0685181-5363-4AB4-9B0C-C6B719C8BC84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExercise", "CollectionExercise\CollectionExercise.csproj", "{2ADC60FC-6E89-4293-A76D-BC2C7EB5F731}"
 EndProject
